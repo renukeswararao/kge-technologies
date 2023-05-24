@@ -1,0 +1,13 @@
+.background{
+    background-color:rgb(49, 24, 30);
+}
+*{
+    color: black !important;
+}
+.background-image{
+    background-image:url("../../assets/img/pages/profile-banner.png");
+    background-size:cover;
+}
+.error{
+    color:red;
+}
